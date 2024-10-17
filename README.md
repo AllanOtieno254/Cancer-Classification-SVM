@@ -1,8 +1,18 @@
 # Cancer Classification using SVM
-
 This repository contains a machine learning project aimed at classifying cancer types based on features extracted from cell samples using a Support Vector Machine (SVM) model.
 
+<img width="568" alt="svm class " src="https://github.com/user-attachments/assets/4d32cffb-e3d4-4b8f-bf7c-cf86de88342a">
+
+<img width="567" alt="svm classification1" src="https://github.com/user-attachments/assets/609a9b9c-3214-4752-9795-d292b6df8ce4">
+
 **Introduction to Support Vector Machine(SVM):** Used SVM to build and train a model using human cell records, and classify cells to whether the samples are benign (mild state) or malignant (evil state).
+
+# Cancer images
+![lung cancer](https://github.com/user-attachments/assets/a74111ba-294b-487c-87d0-b2bcd8f02788)
+
+![breast cancer](https://github.com/user-attachments/assets/ca400554-7b01-4f9d-8d42-1434bcc1acce)
+
+![Visualization-of-breast-cancer-a-benign-and-malignant-tumor-cells-b-benign-and](https://github.com/user-attachments/assets/42fe1671-8ca9-4594-94f5-77779ad3c830)
 
 SVM works by mapping data to a high-dimensional feature space so that data points can be categorized, even when the data are not otherwise linearly separable (This gets done by kernel function of SVM classifier). A separator between the categories is found, then the data is transformed in such a way that the separator could be drawn as a hyperplane.**
 
@@ -40,7 +50,7 @@ Consider using the **MIT License** for your project. You can include a `LICENSE`
   markdown
 MIT License
 
-Copyright (c) [year] [your name]
+Copyright (c) [2024] [Allan Otieno]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
