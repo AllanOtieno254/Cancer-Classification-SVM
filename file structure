@@ -1,0 +1,20 @@
+Cancer-Classification-SVM/
+│
+├── data/
+│   ├── sample_cancer_data.csv          # Sample dataset for predictions
+│   └── dataset.csv                      # (Optional) Full dataset used for training
+│
+├── models/
+│   └── svm_cancer_model.pkl             # Saved SVM model for predictions
+│
+├── notebooks/
+│   └── cancer_classification_notebook.ipynb  # Jupyter notebook with exploratory data analysis and modeling
+│
+├── src/
+│   ├── data_preprocessing.py            # Script for data cleaning and preprocessing
+│   ├── model_training.py                 # Script for training the SVM model
+│   └── predictions.py                    # Script for making predictions on new data
+│
+├── requirements.txt                      # Required packages for the project
+├── README.md                             # Project documentation
+└── LICENSE                               # License information
